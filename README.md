@@ -62,7 +62,7 @@ The script employs multithreading to concurrently process multiple URLs. The `pr
 
 ## [Pdf DataLoader](https://github.com/umangpurwar03/FAISS-PDF-dataloader-LLM)
 
-For an Excel data loader, refer to this [link](https://github.com/umangpurwar03/FAISS-Excel-dataloader-LLM).
+For an Excel data loader, refer to this [link](https://github.com/umangpurwar03/FAISS-PDF-dataloader-LLM).
 
 ## License
 
