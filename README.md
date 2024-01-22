@@ -60,9 +60,9 @@ This repository contains a Python script (`url_data_loader.py`) demonstrating th
 
 The script employs multithreading to concurrently process multiple URLs. The `process_urls_in_parallel` function initiates a separate thread for each URL, facilitating efficient parallel processing. Adjust the number of threads based on system capabilities and requirements.
 
-## [Pdf DataLoader](https://github.com/umangpurwar03/FAISS-PDF-dataloader-LLM)
+## [Pdf DataLoader](https://github.com/umangpurwar03/FAISS-PDF-dataloader-LLM-)
 
-For an Excel data loader, refer to this [link](https://github.com/umangpurwar03/FAISS-PDF-dataloader-LLM).
+For an Excel data loader, refer to this [link](https://github.com/umangpurwar03/FAISS-PDF-dataloader-LLM-).
 
 ## License
 
